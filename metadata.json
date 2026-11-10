@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación Unidad 4 - Acabados Superficiales | ITSC",
+  "description": "Sistema de Evaluación Interactiva para la Unidad 4: Acabados Superficiales y Tratamientos de Superficie en la Manufactura - Instituto Tecnológico Superior de Comalcalco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
